@@ -1,0 +1,1 @@
+Doing Analysis and drawing some insights using python from the automobile dataset attached.Solevd the questions in the attached file.

@@ -1,0 +1,26 @@
+Questions to be addressed
+
+1. Make a statistical analysis ( count, mean, std dev, quartile etc) of the time diffference between the sales and the report dates over the entire data. Make a suitable histogram 
+representation, a distribution plot (a continuous curve depicting of the results), and a box plot of the results.
+2. Make a statistical analysis of the time difference between the report and the repair dates over the entire data. Make a suitable histogram 
+representation, a distribution plot (a continuous curve depicting of the results), and a box plot of the results.
+3. Make the analysis in Q1 and Q2 for the state "Maharashtra", Karnataka, and West Bengal. What are the salienet differences do you observe in the results of the 
+three states?
+4. How many unique types of vehicle  models are there in the data and what are their respective counts?
+5. How many unique types of vehicles are there in the dataset and what are their respective counts?
+6. How many types of "complaint descriptions" are there? What are their respective counts?
+7. What are the top ten frequently occuring words in the "Complant Description" field?
+
+Description of the columns: 
+
+id - 			it is the identifier of each record.
+KMS- 			kilometer travelled by the vehicle
+SALE_DT		the date on which the car was sold
+REPORT_DT		the date on which the vehicle was first reported in the service station with a problem
+REPAIR_DT		the date on which the vehile was repaired and was ready to be delivered back to its owner
+MODEL			the description of the model of the vehicle
+SUB_MODEL 		the sub cateogry of the model
+COMPL_DESC		the description of the complaint (i.e., the problem)
+INVESTIGATION	the investigation result of the problem by the service station
+ACTION_TAKEN	the action taken by the service station
+REG_NO 		the registration number of the vehicle
